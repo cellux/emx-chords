@@ -26,4 +26,3 @@ Dependencies:
 * FLTK
 * FluidSynth (only if you want to try your chords)
 
-Note: the EMX chord definitions have not been verified yet, so there may be bugs (chord configurations on the EMX may not match what is shown in and played by the app).
